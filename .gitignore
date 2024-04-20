@@ -1,0 +1,5 @@
+venv
+.venv
+chromedriver-win64
+chromedriver.exe
+PywhatKit_DB.txt
